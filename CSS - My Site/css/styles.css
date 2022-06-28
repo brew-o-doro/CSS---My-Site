@@ -1,3 +1,23 @@
 body {
-  background-color: blue;
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top_container {
+  background-color: #e4f9f5;
+}
+
+.middle_container {
+  height: 200px;
+  width: 200px;
+  background-color: aquamarine;
+}
+
+.bottom_container {
+  height: 200px;
+  width: 200px;
+  background-color: coral;
 }
